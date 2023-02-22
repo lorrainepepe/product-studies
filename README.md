@@ -1,3 +1,3 @@
 # product-studies
 
-This repository contains product fundamentals: managment, growth, analytics, etc.
+This repository contains product fundamentals: management, growth, analytics, etc.
